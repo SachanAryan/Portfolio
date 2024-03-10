@@ -20,7 +20,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          I made the two major projects in my college time. The first one is Cab Management System and the second is EduHub(in this project the junior student can find the notes and question paper as per his/her subjects and the senior can upload the notes and uetion paper and the junior can do direct message to the senior for the suggestion and it's a paid service).
+          I made the two major projects in my college time. The first one is Cab Management System and the second is EduHub(in this project the junior student can find the notes and question paper as per his/her subjects and the senior can upload the notes and question paper and the junior can do direct message to the senior for the suggestion and it's a paid service).
         </p>
       </div>
     </div>
